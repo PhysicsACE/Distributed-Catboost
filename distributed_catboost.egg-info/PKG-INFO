@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: distributed-catboost
+Version: 1.0
+Summary: A Ray backend for distributed Catboost
+Home-page: https://github.com/PhysicsACE/distributed_catboost
+Author: PhysicsACE
+License: Apache 2.0
+
+A distributed backend for Catboost built on top of distributed computing framework Ray.
